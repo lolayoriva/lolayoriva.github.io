@@ -134,7 +134,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/IMG_20170507_122003.jpg"
-    date: "September 2013 - Today"
+    date: "May 2017 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/kelas.jpg"
     date: "September 2014 - Descember 2017"
