@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Sejarah Fakultas Sains da Teknologi UIN SUSKA Riau!
+title: Sejarah Fakultas Sains dan Teknologi UIN SUSKA Riau!
 category: tech
 tags: [ 'kampus' ]
 ---
