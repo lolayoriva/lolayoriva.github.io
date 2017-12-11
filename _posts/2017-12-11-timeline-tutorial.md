@@ -11,7 +11,6 @@ bentuk garis waktu foto, tanggal dan deskripsi teks.
 Timeline dikendalikan oleh variabel berikut:
 
 <pre><code data-trim class="yaml">
-
 acara:
   - image: "/img/timeline/IMG_20170507_122003.jpg"
     date: "May 2017 - Today"
