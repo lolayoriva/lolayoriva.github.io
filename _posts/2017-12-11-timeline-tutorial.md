@@ -13,12 +13,12 @@ Timeline dikendalikan oleh variabel berikut:
 <pre><code data-trim class="yaml">
 
 acara:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/IMG_20170507_122003.jpg"
+    date: "May 2017 - Today"
+    description: "Seminar Enterpreneurship bersama Sistem Informasi 14"
+  - image: "/img/timeline/kelas.jpg"
+    date: "September 2014 - Descember 2017"
+    description: "Foto bersama Sistem Informasi Kelas D"
 
 # Citra pertama Timeline
 
