@@ -1,14 +1,14 @@
 ---
 layout: post
 section-type: post
-title: Modifying the social buttons
+title: Memodifikasi tombol sosial
 category: tech
 tags: [ 'tutorial' ]
 ---
 
-Social buttons (rendered above the footer) are great for having a small hub with all your social footprint.
+Tombol sosial (diberikan di atas footer) sangat bagus untuk memiliki hub kecil dengan semua jejak sosial Anda.
 
-You can edit them with the following variables:
+Anda bisa mengeditnya dengan variabel berikut:
 
 <pre><code data-trim class="yaml">
 social:
@@ -17,12 +17,12 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/lolayoriva"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 </code></pre>
 
-The title selects the desired [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
-icon and it shouldn't include the "fa-" prefix.
+Judul memilih yang diinginkan [Font Awesome] (https://fortawesome.github.io/Font-Awesome/icons/)
+ikon dan seharusnya tidak menyertakan awalan "fa-".
