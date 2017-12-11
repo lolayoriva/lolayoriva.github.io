@@ -12,6 +12,6 @@ Dalam pelaksanaannya Jurusan Sistem Informasi telah melakukan kerjasama dengan P
 
 Share
 
-untuk mengetahui tentang UIN SUSKA Riau silahkan untuk mengklik <a href="https://sif.uin-suska.ac.id/tentang/sejarah-jurusan/">UIN SUSKA Riau.
+untuk mengetahui tentang Program Studi Sistem Informasi silahkan untuk mengklik <a href="https://sif.uin-suska.ac.id/tentang/sejarah-jurusan/">Sistem Informasi.
 
 
